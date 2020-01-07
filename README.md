@@ -1,6 +1,6 @@
 # inclass-webgl-celpratter
 ## Project description:
-Introduction/Project summary
+WebGL testing repository and hosting
 
 ## Development platform:
 - OS: MacOS 10.14.3
@@ -26,4 +26,7 @@ incl. progress in percent
 
 ## Limitations:
 ## Lessons Learned:
+- Switch Platform from Standalone to WebGL
+- Buil WebGL
+
 Copyright by celpratter
