@@ -13,20 +13,22 @@ WebGL testing repository and hosting
 - WebGL, reference resolution 960 x 600
 
 ## Visuals:
-Screenshots (concept and experience), Video
+None
 
 ## Necessary setup/execution steps:
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+None
 
 ## Third party material:
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+None
 
 ## Project state:
-incl. progress in percent
+100%
 
 ## Limitations:
+None
 ## Lessons Learned:
 - Switch Platform from Standalone to WebGL
 - Buil WebGL
+-Github Pages, with docs
 
 Copyright by celpratter
